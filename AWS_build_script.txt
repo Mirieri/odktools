@@ -80,3 +80,8 @@ cd ../../..
 
 sudo qmake
 sudo make
+
+sudo apt install build-essential
+sudo apt install qtcreator
+//if you want Qt5 to be default
+sudo apt install qt5-default
